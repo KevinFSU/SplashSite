@@ -5,26 +5,27 @@ You probably got to my business-card site by scanning my QR code, well aren't yo
 # About me
 I'm a Cyber Criminology student at FSU interested in security, networking, programming, cars, and skateboarding. I have real job experience in Private Investigations, Security, and Automotive fabrication/repair. My position as CEO of beekeep, llc currently trails behind as I focus on my studies-- it's a side job/hobby for now. Although I am not currently accepting job offers of any kind, I invite you to follow me on social media to expand our networks! Please reach out to me with any questions or comments :)
 
-
-# Socials:
-- Instagram:
-[Instagram](https://www.instagram.com/gc8kevin/)
-- Snapchat:
-[Snapchat](www.snapchat.com/add/builtka)
-- Twitter:
-[Twitter](https://twitter.com/KvnYps)
-- Facebook:
-[Facebook](https://www.facebook.com/kevin.yepes.77)
-
 # Contact:
-### Phone:
+
+## Socials:
+- Instagram:
+[gc8kevin](https://www.instagram.com/gc8kevin/)
+- Snapchat:
+[builtka](www.snapchat.com/add/builtka)
+- Twitter:
+[KvnYps](https://twitter.com/KvnYps)
+- Facebook:
+[kevin.yepes.77](https://www.facebook.com/kevin.yepes.77)
+
+
+## Phone:
 (786) 651-5908
-### eMails:
+## eMails:
 
 - kevin@beekeep.us
 
 - kevinyepes@gmail.com
 
 # Business Pages:
-### BeeKeep, LLC
+## BeeKeep, LLC
 [beekeep.us](beekeep.us)
