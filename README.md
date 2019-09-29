@@ -2,15 +2,19 @@
 
 You probably got to my business-card site by scanning my QR code, well aren't you curious? I hope my advertising style made you realize how cool data encoding can be, or at least made you smile! We have a vastly under-used feature of camera apps -- like Snapchat -- that are able to process encoded images like QR codes, so why don't we start using them more?
 
-# Social media:
+# About me
+I'm a Cyber Criminology student at FSU interested in security, networking, programming, cars, and skateboarding. I have real job experience in Private Investigations, Security, and Automotive fabrication/repair. My position as CEO of beekeep, llc currently trails behind as I focus on my studies-- it's a side job/hobby for now. Although I am not currently accepting job offers of any kind, I invite you to follow me on social media to expand our networks! Please reach out to me with any questions or comments :)
+
+
+# Socials:
 ## Instagram:
-[link](https://www.instagram.com/gc8kevin/)
+[Instagram](https://www.instagram.com/gc8kevin/)
 ## Snapchat:
-[link](www.snapchat.com/add/builtka)
+[Snapchat](www.snapchat.com/add/builtka)
 ## Twitter:
-[link](https://twitter.com/KvnYps)
+[Twitter](https://twitter.com/KvnYps)
 ## Facebook:
-[link](https://www.facebook.com/kevin.yepes.77)
+[Facebook](https://www.facebook.com/kevin.yepes.77)
 
 # Contact:
 ## Phone:
@@ -18,11 +22,12 @@ You probably got to my business-card site by scanning my QR code, well aren't yo
 ## eMails:
 
 kevin@beekeep.us
+
 kevinyepes@gmail.com
 
-# Business:
+# Business Pages:
 ## BeeKeep, LLC
-[link](beekeep.us)
+[beekeep.us](beekeep.us)
 
 
 ### Markdown
