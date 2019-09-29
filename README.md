@@ -1,8 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to KevinYepes.net
 
-You can use the [editor on GitHub](https://github.com/KevinFSU/SplashSite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You probably got to my business-card site by scanning my QR code, well aren't you curious? I hope my advertising style made you realize how cool data encoding can be, or at least made you smile! We have a vastly under-used feature of camera apps -- like Snapchat -- that are able to process encoded images like QR codes, so why don't we start using them more?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Social media:
+## Instagram:
+[link](https://www.instagram.com/gc8kevin/)
+## Snapchat:
+[link](www.snapchat.com/add/builtka)
+## Twitter:
+[link](https://twitter.com/KvnYps)
+## Facebook:
+[link](https://www.facebook.com/kevin.yepes.77)
+
+# Contact:
+## Phone:
+(786) 651-5908
+## eMails:
+
+kevin@beekeep.us
+kevinyepes@gmail.com
+
+# Business:
+## BeeKeep, LLC
+[link](beekeep.us)
+
 
 ### Markdown
 
