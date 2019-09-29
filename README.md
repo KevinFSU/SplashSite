@@ -11,7 +11,7 @@ I'm a Cyber Criminology student at FSU interested in security, networking, progr
 - Instagram:
 [gc8kevin](https://www.instagram.com/gc8kevin/)
 - Snapchat:
-[builtka](www.snapchat.com/add/builtka)
+[builtka](https://www.snapchat.com/add/builtka)
 - Twitter:
 [KvnYps](https://twitter.com/KvnYps)
 - Facebook:
