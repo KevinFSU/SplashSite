@@ -9,6 +9,9 @@ I'm a Florida State University Cyber Criminology alumnus interested in security,
 ETH: 0x23e8B474EFF61e2849CdA9dF4FF00b0148f918c6
 BTC/CRO: 0x530218A10385E067769439C46634d82B28583B0c
 
+# BlockDAG Referral Code:
+https://purchase.blockdag.network/?ref=l7lea3qy
+
 # (Non-Professional) Find me publicly at:
 https://www.twitch.tv/vinothy
 https://www.instagram.com/gc8kevin/
