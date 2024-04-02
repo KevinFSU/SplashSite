@@ -1,6 +1,14 @@
 # Kevin Yepes
 
-You probably got to my business-card site by scanning my QR code, well aren't you curious? I hope my advertising style made you realize how cool data encoding can be, or at least made you smile! We have a vastly under-used feature of camera apps -- like Snapchat -- that are able to process encoded images like QR codes, so why don't we start using them more?
+Welcome to my business card site. 
 
 # About me
-I'm a Cyber Criminology student at FSU interested in security, networking, programming, cars, and skateboarding. I have real job experience in Private Investigations, Security, and Automotive fabrication/repair.
+I'm a Florida State University Cyber Criminology alumnus interested in security, network IT, programming, cars, and skateboarding. I have real job experience in private pnvestigations, cyber and physical security, beekeeping, and automotive fabrication/repair.
+
+# Donations
+pay me at: 0x23e8B474EFF61e2849CdA9dF4FF00b0148f918c6
+
+# (Non-Professional) Find me publicly at:
+https://www.twitch.tv/vinothy
+https://www.instagram.com/gc8kevin/
+https://github.com/KevinFSU
