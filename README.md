@@ -8,6 +8,7 @@ I'm a Florida State University Cyber Criminology alumnus interested in security,
 # Donations
 ETH: 0x23e8B474EFF61e2849CdA9dF4FF00b0148f918c6  
 BTC/CRO: 0x530218A10385E067769439C46634d82B28583B0c  
+Monero: 8C6CnyH5M8RVjdPr85ehqJK2nN122NEaXLUiU1Frn9BqNocaQBDQnA1YxdUe96iHV3QdfrWTnVL6ijhCzh9SDpYaEK14jjp  
 
 # BlockDAG Referral Code:
 <https://purchase.blockdag.network/?ref=l7lea3qy>
