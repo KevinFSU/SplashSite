@@ -3,7 +3,7 @@
 Welcome to my business card site. 
 
 # About me
-I'm a Florida State University Cyber Criminology alumnus interested in security, network IT, programming, cars, and skateboarding. I have real job experience in private investigations, cyber and physical security, beekeeping, and automotive fabrication/repair.
+I'm a Florida State University Cyber Criminology alumnus interested in security, network IT, programming, photography, cars, and skateboarding. I have real job experience in private investigations, cyber and physical security, beekeeping, and automotive fabrication/repair.
 
 # Donations
 ETH: 0x23e8B474EFF61e2849CdA9dF4FF00b0148f918c6  
@@ -17,3 +17,5 @@ Monero: 8C6CnyH5M8RVjdPr85ehqJK2nN122NEaXLUiU1Frn9BqNocaQBDQnA1YxdUe96iHV3QdfrWT
 <https://www.twitch.tv/vinothy>  
 <https://www.instagram.com/gc8kevin/>  
 <https://github.com/KevinFSU>  
+
+# For inquiries reach out on Instagram ;)
