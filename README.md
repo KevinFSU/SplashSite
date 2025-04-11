@@ -13,3 +13,4 @@ Monero: 8C6CnyH5M8RVjdPr85ehqJK2nN122NEaXLUiU1Frn9BqNocaQBDQnA1YxdUe96iHV3QdfrWT
 <https://github.com/KevinFSU>  
 
 # Mail me a letter if you would like my email.
+[When I die.](will.md "Disambiguation")
